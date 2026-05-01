@@ -1,5 +1,7 @@
 # RAJAPINTA EEG 2 AUDIO STUDIO
 
+Video: https://youtu.be/a-RwPRtmTYQ
+
 ![Rajapinta](rajapinta.png)
 
 **A scientific instrument for exploring continuous brain dynamics as discrete, speech-like acoustic events.**
